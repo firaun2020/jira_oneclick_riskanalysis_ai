@@ -1,7 +1,3 @@
-Absolutely — here's a clean, professional `README.md` written in a straightforward tone, suitable for internal or external technical documentation.
-
----
-
 ````markdown
 # Risk-AI: Jira Forge App for Automated Change Risk Analysis
 
